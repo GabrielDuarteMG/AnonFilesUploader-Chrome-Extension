@@ -1,0 +1,24 @@
+@import "/css/bootstrap.min.css";
+body {
+  background-color: #111111;
+}
+.corFundo {
+  background-color: #111111;
+}
+p {
+  color: #fff;
+}
+.per {
+  width: 70%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.copyStr {
+  font-weight: bold;
+  color: green;
+}
+.cursorPointer{
+  cursor: pointer;
+}
