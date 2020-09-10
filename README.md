@@ -1,2 +1,2 @@
-# AnonFilesUploader---Chrome-Extension
+# AnonFilesUploader - Chrome Extension
 This is Unofficial anonfiles.com Chrome extension 
